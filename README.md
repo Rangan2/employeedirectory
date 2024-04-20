@@ -1,2 +1,2 @@
 # employeedirectory
-Simple Employee Directory using Jakarta Entity Manager
+Simple Employee Directory using Spring Boot Jakarta Entity Manager.
